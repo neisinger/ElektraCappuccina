@@ -23,23 +23,21 @@ Nemox, Salda, Saeco Aroma, Quaha, Mokita, Domita, Domena l'espresso, Isomac Capp
 
 
 ## IMAGES
-Elektra Cappuccina R1
-
-Elektra Cappuccina R2
-
+### Elektra Cappuccina R1
+<p float="left">
+    <img src="/images/R1/Image.jpeg" width="100"/>
+    <img src="/images/R1/Image[1].jpeg" width="100"/>
+    <img src="/images/R1/Image[2].jpeg" width="100"/>
+    <img src="/images/R1/Image[3].jpeg" width="100"/>
+    <img src="/images/R1/Image[7].jpeg" width="100"/>
+</p>
+<p float="left">
+    <img src="/images/R1/Image[6].jpeg" width="100"/>
+    <img src="/images/R1/Image[8].jpeg" width="100"/>
+    <img src="/images/R1/Image[9].jpeg" width="100"/>
+    <img src="/images/R1/Image[10].jpeg" width="100"/>
+</p>
 
 ## EXPLODED ASSEMBLY DRAWINGS
-### body
-/assets/exploded assembly drawings/Body1.png
-### delivery
-/assets/exploded assembly drawings/delivery1.png
-### electrical
-/assets/exploded assembly drawings/electrical1.png
 
 ## PARTS LISTS
-### body
-/assets/parts lists/Body2.png
-### delivery
-/assets/parts lists/delivery2.png
-### electrical
-/assets/parts lists/electrical2.png
