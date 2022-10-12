@@ -1,6 +1,15 @@
 # Elektra Cappuccina
 Collection of assets an info about the Elektra Cappuccina Espresso machine
 
+- [Elektra Cappuccina](#elektra-cappuccina)
+  * [VARIANTS](#variants)
+  * [TECHNICAL SPECIFICATIONS](#technical-specifications)
+    + [Elektra Cappuccina R2](#elektra-cappuccina-r2)
+  * [IMAGES](#images)
+    + [Elektra Cappuccina R1](#elektra-cappuccina-r1)
+  * [EXPLODED ASSEMBLY DRAWINGS](#exploded-assembly-drawings)
+  * [PARTS LISTS](#parts-lists)
+
 ## VARIANTS
 Nemox, Salda, Saeco Aroma, Quaha, Mokita, Domita, Domena l'espresso, Isomac Cappuccina/ Giada, Bazzar A2, LELIT PL50
 
