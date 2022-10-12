@@ -6,7 +6,7 @@ Elektra Cappuccina R1
 
 Elektra Cappuccina R2
 
-## exploded assembly drawing
+## exploded assembly drawings
 ### body
 
 ### delivery
