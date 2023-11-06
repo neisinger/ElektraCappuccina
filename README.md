@@ -4,7 +4,7 @@
 
 # Elektra Cappuccina
 
-Collection of assets an info about the Elektra Cappuccina Espresso machine
+Collection of assets and info about the Elektra Cappuccina Espresso machine
 
 - [Elektra Cappuccina](#elektra-cappuccina)
   * [VARIANTS](#variants)
