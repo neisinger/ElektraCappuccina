@@ -1,6 +1,7 @@
 <p float="center">
 <img src="/assets/logo/Elektra-commercial-espresso-machine.jpg"/>
 </p>
+
 # Elektra Cappuccina
 
 Collection of assets an info about the Elektra Cappuccina Espresso machine
