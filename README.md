@@ -49,14 +49,12 @@ Nemox, Salda, Saeco Aroma, Quaha, Mokita, Domita, Domena l'espresso, Isomac Capp
 
 ## MANUAL
 <p float="left">
- <img src="/assets/titlepage.JPG" width="100"/>
- <img src="/assets/exploded assembly drawings/body1.JPG" width="100"/>
- <img src="/assets/parts lists/body2.JPG" width="100"/>
- <img src="/assets/exploded assembly drawings/delivery1.JPG" width="100"/>
- <img src="/assets/exploded assembly drawings/electrical1.JPG" width="100"/>
-</p>
-
-### ELECTRICAL DIAGRAM
-<p float="left">
- <img src="/assets/electrical.JPG" width="100"/>
+ <img src="/assets/manual/titlepage.JPG" width="100"/>
+ <img src="/assets/manual/body1.JPG" width="100"/>
+ <img src="/assets/manual/body2.JPG" width="100"/>
+ <img src="/assets/manual/delivery1.JPG" width="100"/>
+ <img src="/assets/manual/delivery2.JPG" width="100"/>
+ <img src="/assets/manual/electrical1.JPG" width="100"/>
+ <img src="/assets/manual/electrical2.JPG" width="100"/>
+ <img src="/assets/manual/electrical.JPG" width="100"/>
 </p>
