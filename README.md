@@ -1,4 +1,5 @@
 # Elektra Cappuccina
+<img src="/assets/logo/Logo-Elektra-retro-style.jpeg" width="100"/>
 Collection of assets an info about the Elektra Cappuccina Espresso machine
 
 - [Elektra Cappuccina](#elektra-cappuccina)
